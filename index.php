@@ -1,6 +1,4 @@
 <?php 
   $str1= gethostname();
-  $str2= php_uname('n');
-  echo '<p>my Hello World,' . $str1 . ' ' . $str2 . '</p>';
-  ?> 
-  
+  echo 'my Hello World,222222222,' . $str1 ;
+?>                     
